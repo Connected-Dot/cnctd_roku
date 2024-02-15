@@ -1,0 +1,13 @@
+[package]
+name = "cnctd_roku"
+version = "0.1.0"
+edition = "2021"
+authors = ["Connected Dot Inc.", "Kyle Ebner <kyle@cnctd.world>"]
+description = "scaffolded by cnctd"
+repository = "https://github.com/Connected-Dot/cnctd_roku"
+license = "MIT"
+keywords = ["module"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
