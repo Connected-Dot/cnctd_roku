@@ -1,6 +1,6 @@
 [package]
 name = "cnctd_roku"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 authors = ["Connected Dot Inc.", "Kyle Ebner <kyle@cnctd.world>"]
 description = "scaffolded by cnctd"
